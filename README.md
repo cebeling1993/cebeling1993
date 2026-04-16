@@ -3,4 +3,4 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure SOC-Lab</b>
-  - [Praciting DS & Algos in Python]
+  - [Azure SOC-Lab SIEM and Honeypot](https://github.com/cebeling1993/Azure-SOC-SIEM-abd-Honeypot/tree/main)
