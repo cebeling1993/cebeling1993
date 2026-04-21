@@ -5,5 +5,5 @@
 - <b>Azure SOC-Lab</b>
   - [Azure SOC-Lab SIEM and Honeypot](https://github.com/cebeling1993/Azure-SOC-SIEM-abd-Honeypot/tree/main)
 
-- <b>Azure SOC-Lab</b>
-  - [Azure SOC-Lab SIEM and Honeypot]
+- <b>Python Projects</b>
+  - [Password Generator](https://github.com/cebeling1993/Python-Password-Generator)
