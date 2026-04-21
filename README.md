@@ -7,3 +7,6 @@
 
 - <b>Python Projects</b>
   - [Password Generator](https://github.com/cebeling1993/Python-Password-Generator)
+
+- <b>Wireshark Projects</b>
+  - [Wireshark Filtering](https://github.com/cebeling1993/Wireshark-Projects/blob/main/README.md)
